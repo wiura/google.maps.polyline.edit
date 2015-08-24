@@ -1,0 +1,5 @@
+{
+  "name": "google.maps.polyline.edit",
+  "main": "src/polyline.edit.js"
+}
+
